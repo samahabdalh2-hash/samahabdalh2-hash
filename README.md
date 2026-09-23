@@ -35,16 +35,33 @@ I enjoy working with backend technologies, databases, and web development, and I
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-🚀 Featured Projects
-🎬 Modern Cinema Project
-A collaborative cinema web application featuring authentication and modern web application functionality.
-🔗 View Project (https://github.com/seif-amr-dev/Modern_Cinema_Project)
+## 🚀 Featured Projects
 
-👥 User Posts
+### 🎬 Modern Cinema Project
+
+A collaborative cinema web application built with Angular and backend technologies, featuring authentication and modern web application functionality.
+
+🔗 [View Repository](https://github.com/seif-amr-dev/Modern_Cinema_Project)
+
+---
+
+### 👥 User Posts
+
 A web application for managing users and posts with backend API functionality.
 
-📸 Photography Studio Management System
-A C# Windows Forms application for managing photography studio customers, events, and invoices.
+
+---
+
+### 📸 Photography Studio Management System
+
+A C# Windows Forms application designed to manage photography studio customers, events, and invoices.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samahabdalh2-hash&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samahabdalh2-hash&layout=compact&hide_border=true" width="48%" />
+</p>
 
 📚 Currently Learning
 ASP.NET Core
