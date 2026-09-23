@@ -3,17 +3,37 @@
 I'm a Computer Science student and Junior Back-End Developer interested in building web applications, REST APIs, and practical software solutions.
 I enjoy working with backend technologies, databases, and web development, and I'm continuously improving my skills through real-world projects and collaborative development.
 
-🛠️ Tech Stack
-Languages
-Python C# C++ JavaScript
-Backend
-Node.js Express.js .NET ASP.NET Core
-Databases
-MongoDB MySQL
-Frontend
-HTML CSS JavaScript Angular
-Tools
-Git GitHub VS Code
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 🚀 Featured Projects
 🎬 Modern Cinema Project
